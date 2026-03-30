@@ -14,7 +14,6 @@ and philosophy to its practical implementation on Linux.
 ---
 
 ## 📁 Project Structure
-
 oss-capstone-project/
 ├── scripts/
 │   ├── system_info.sh          # Script 1: System info display
